@@ -1,2 +1,2 @@
 # Le-Scone
-CURSO DA ORIGAMID SASS 
+O objetivo desenvolver uma landing page , ultilizando pré processador SASS
