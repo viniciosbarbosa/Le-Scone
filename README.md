@@ -1,2 +1,2 @@
-# Le-Scone
-Desenvolvimento de  uma landing page , SASS | SCSS
+# LeScone
+Desenvolvimento de  uma landing page ultilizando SASS | SCSS
