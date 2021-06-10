@@ -1,2 +1,2 @@
 # Le-Scone
-O objetivo desenvolver uma landing page , ultilizando pré processador SASS
+Desenvolvimento de  uma landing page , SASS | SCSS
